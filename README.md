@@ -18,3 +18,11 @@ xz -d pine64-pinephone.img.xz
 # lsblk
 sudo dd if=pine64-pinephone.img of=/dev/sdX bs=4M status=progress conv=fsync
 ```
+
+
+```
+### FLASH IT SailfishOS
+
+# get script https://github.com/sailfish-on-dontbeevil/flash-it
+# run script and choice Pinephone 1.2 (#2)
+```
