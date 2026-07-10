@@ -48,4 +48,6 @@ X-Hacks-ShowInLauncher=true
 X-Nemo-Application-Type=silica-qt5
 
 update-desktop-database ~/.local/share/applications
+
+# install waydroid and waydroid runner
 ```
