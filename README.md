@@ -51,3 +51,13 @@ update-desktop-database ~/.local/share/applications
 
 # install waydroid and waydroid runner
 ```
+
+```
+### AuroraStore
+
+# get auroraoss.com/files/AuroraStore/Release (AuroraStore-4.8.3.apk)
+# root
+devel-su
+waydroid init
+waydroid app install AuroraStore-4.8.3.apk
+```
